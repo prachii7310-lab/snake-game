@@ -1,0 +1,27 @@
+body {
+    background-color: #222;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+#score {
+    font-size: 24px;
+    margin: 10px;
+}
+
+canvas {
+    background-color: black;
+    border: 3px solid #4CAF50;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
